@@ -32,4 +32,9 @@
 - I completed query R1 and R2
 - For query R2 I also took the uncertainty into account.
 
+13-12:
+--------
+- Included R3 and R5
+- R3: For now I took the mean uncertainty and the mean flux of all stars in the Ks_E001 band. I might want to take the oter Ks bands also into account for this calculation. 
+
 
