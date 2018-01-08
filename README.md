@@ -37,4 +37,9 @@
 - Included R3 and R5
 - R3: For now I took the mean uncertainty and the mean flux of all stars in the Ks_E001 band. I might want to take the oter Ks bands also into account for this calculation. 
 
+08-01:
+--------
+In the H filter various magnitudes are found to be Nan. They are likely to exist at the boundaries of the images. 
+These are removed from the distribution when I want to make the samples for 1c.
+Started on the second problem but need to evaluate the method with others.
 
