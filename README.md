@@ -43,3 +43,9 @@ In the H filter various magnitudes are found to be Nan. They are likely to exist
 These are removed from the distribution when I want to make the samples for 1c.
 Started on the second problem but need to evaluate the method with others.
 
+09-01:
+--------
+- 1b/1c I am not able to get the error below 0.01. Need to clarify this with the others. k-fold does not work as well. Maybe try PCA on this data before I do the linear regression?
+- 1d I am trying to solve this with an neural network and PCA. But I get values of about 0.012. Try without PCA or more reduction. 
+Also tried boosting but that does not give any better results. 
+
